@@ -1,0 +1,66 @@
+body {
+    background:black;
+}
+
+h3 {
+    color: orangered;
+    padding-left: 10px;
+}
+
+a:link {
+    color:orangered
+    
+}
+
+a:hover {
+    color:white;
+}
+
+.logo {
+    text-align: center;
+}
+
+#show-list-box {
+    border-style: double;
+    border-color:orangered;
+    margin-top: -300px;
+    margin-right: 1250px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    position: fixed;
+
+}
+
+#show-list {
+    color:orangered;
+    padding-top: 5px;
+
+}
+
+h1 {
+
+    color: orangered;
+    text-align: center;
+}
+
+p {
+    color: white;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-bottom: 20px;
+    border-width:inherit;
+    float: left;
+    text-indent: 50px;
+    line-height: 25px;
+}
+
+li {
+    padding-bottom: 5px;
+}
+
+.video {
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
