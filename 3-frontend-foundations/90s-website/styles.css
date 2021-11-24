@@ -23,11 +23,11 @@ a:hover {
 #show-list-box {
     border-style: double;
     border-color:orangered;
-    margin-top: -300px;
     margin-right: 1250px;
-    padding-bottom: 15px;
-    padding-right: 15px;
+    padding-right: 1%;
+    top: 20px;
     position: fixed;
+
 
 }
 
